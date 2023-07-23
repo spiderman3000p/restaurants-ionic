@@ -43,6 +43,7 @@
     "@angular/compiler": "^16.0.0",
     "@angular/compiler-cli": "^16.0.0",
     "@angular/language-service": "^16.0.0",
+    "@angular/localize": "^16.1.6",
     "@capacitor/cli": "5.2.2",
     "@ionic/angular-toolkit": "^9.0.0",
     "@types/jasmine": "~4.3.0",
